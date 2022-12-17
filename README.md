@@ -1,2 +1,2 @@
 # server-samples
-Server response samples for Lumine UI
+Server samples for Lumine UI
